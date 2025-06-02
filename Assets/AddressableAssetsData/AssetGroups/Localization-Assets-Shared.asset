@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b6b4497c35635214086e4dff9010a0bf
+  m_SerializeEntries:
+  - m_GUID: ff08284098807e247b8ab36542a971d4
+    m_Address: Assets/Localisation/DialogTanuki Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e020fb00f9eb5404786e5780864fdeaa
+    m_Address: Assets/Localisation/Menu/Menu Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0fe92bc1ed894994a8ef6655d0655951
+    m_Address: Assets/Localisation/Minami/Minami Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25dcebfe49b4bef478e8fdb125c7378b
+    m_Address: Assets/Localisation/NameLvl1/NameLvl1 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04179969faf2ddd48b858f0b468b1b1c
+    m_Address: Assets/Localisation/DialogKitsune/DialogKitsune Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fdb0c1d975f70fb4aba58278f6be1440
+    m_Address: Assets/Localisation/Dragon/Dragon Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c69294b6155602e4391cf8f74b164cf5
+    m_Address: Assets/Localisation/DialogGeisha/DialogGeisha Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cf8c5e60f901af48a223b3629ea783f
+    m_Address: Assets/Localisation/DialogTengu/DialogTengu Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96ba3caebe136a448978e7f133012fac
+    m_Address: Assets/Localisation/GameINFOLvl1/GameINFO Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ae461afd970b2e45a8c3d5178e76541
+    m_Address: Assets/Localisation/Dialoginfo/Dialoginfo Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9f5d6a78d9d9a4479def20d434774bb
+    m_Address: Assets/Localisation/XP/XP Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54e2e67a3f5f009458c5f1fb0c18c969
+    m_Address: Assets/Localisation/INFOmenu/INFOmenu Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 728d79802f0818841b90b7d5fdd7b13f
+    m_Address: Assets/Localisation/InventoryINFO/InventoryINFO Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9a765f7400da254c8d91053f0f5ee63
+    m_Address: Assets/Localisation/DialogDeer/DialogDeer Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bde7a239a18b4e9489450b3cfba5a299
+    m_Address: Assets/Localisation/DialogSirin/DialogSirin Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd1ebbcdf17af9345bec4dba67f49894
+    m_Address: Assets/Localisation/DialogMermaid/DialogMermaid Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c9200faa13db0742a199fbb0ab76195
+    m_Address: Assets/Localisation/DialogLeshii/DialogLeshii Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f589530ba5f4264fa718371a2c58dbe
+    m_Address: Assets/Localisation/DialogCat/DialogCat Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 633c071618ba6ef4fb4a360c48424c26
+    m_Address: Assets/Localisation/DiscoGrib/DiscoGrib Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51acdc37ee3644d4f9608b6646401af3
+    m_Address: Assets/Localisation/DialogPele/DialogPele Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dda035080a8094d4d8a41b864a14a07a
+    m_Address: Assets/Localisation/DialogSquid/DialogSquid Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa65c40d005f7de47bb2e826ece6cc73
+    m_Address: Assets/Localisation/DialogStone/DialogStone Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d537b0e90c42792468dee94dfb7ca4f5
+    m_Address: Assets/Localisation/DialogSpirit/DialogSpirit Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5195f12665bb1c042aea0b5f293192b5
+    m_Address: Assets/Localisation/Map/Map Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ed303f730555ee4f960081cc9a12aff
+    m_Address: Assets/Localisation/Puzzle/Puzzle Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 893e5e4ddd619254bbedf9ff398dae49
+    m_Address: Assets/Localisation/TheEnd/TheEnd Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65f5bef4699c266418bd4c2b50ce523a
+    m_Address: Assets/Localisation/Space/Space Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: b9e9fa13eba935944a10bfa671158c86, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b91f51994cb22ee44bdb384e0372746b, type: 2}
+    - {fileID: 11400000, guid: 2d93a5c3c75f66f42ad8f50d5adc8c8f, type: 2}

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DialogKitsune_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 04179969faf2ddd48b858f0b468b1b1c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 136774025216
+    m_Localized: Hehe...Well, hello, little one. How did such a fragile soul end
+      up in such a place?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417641398272
+    m_Localized: Oh, I have to help you..Look behind the third cypress tree from
+      the lantern. Just be careful!! CY-PR-ESS! There's no point in looking in the
+      bushes behind the shop, there's just all kinds of trash.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 875118329856
+    m_Localized: GROSS!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1481564356608
+    m_Localized: Hello..I'm here by accident..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2352616439808
+    m_Localized: Can I touch the tails??
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2466437267456
+    m_Localized: Wow! Thanks!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2819115319296
+    m_Localized: ...
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

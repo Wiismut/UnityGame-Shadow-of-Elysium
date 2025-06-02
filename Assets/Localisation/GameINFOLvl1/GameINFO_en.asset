@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GameINFO_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 96ba3caebe136a448978e7f133012fac, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 601930727424
+    m_Localized: He's sleeping.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 569412288512
+    m_Localized: '
+
+
+      A lonely wanderer who came from the distant mountains.
+
+      Tengu
+      spirits don''t like people. It''s better not to waste time talking to him.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281523650560
+    m_Localized: '
+
+
+      Polite and sweet. She plays the shamisen and makes delicious
+      sushi.
+
+      Maybe she will treat the connoisseurs of her music?..'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149575041024
+    m_Localized: '
+
+
+      A raccoon spirit who loves entertainment and magic tricks.
+      He likes to collect all sorts of trinkets: he has a lot of things in his collection.
+      The whole forest is in his boxes!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85624487936
+    m_Localized: '
+
+
+      The owner of the grocery store. A sly fox girl with sweet
+      words. Don''t believe a word she says.
+
+      She values her personal boundaries
+      very much.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46877507584
+    m_Localized: '
+
+
+      Spirit-yurei
+
+      Responsive and kind. Previously, she
+      was a human
+
+      The first person you meet in the spirit world'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695886562590720
+    m_Localized: '
+
+
+      Sirin''s singing is able to predict the future, perhaps
+      she can give a valuable hint.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695927750656000
+    m_Localized: '
+
+
+      If you''re tired on the way, it doesn''t matter! He always
+      has a couple of snacks for you. The main thing is to be polite...'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695956968177664
+    m_Localized: '
+
+
+      A lonely mermaid with a melancholic personality. He likes
+      to compose poems and riddles for travelers. Will you be able to solve them?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695982792507392
+    m_Localized: '
+
+
+      The patron spirit of all creatures on the floor.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696014220427264
+    m_Localized: '
+
+
+      The storyteller! Be sure to listen to his story. There
+      is some truth in every fairy tale.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735509422669824
+    m_Localized: '
+
+
+      Volcanic lava with human features. Be careful, Pele is
+      wise, but quick-tempered. Start with a simple greeting, perhaps she will be
+      supportive.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735511414964224
+    m_Localized: '
+
+
+      The majestic patron saint of the waters of this floor.
+      Be courteous and he will give helpful advice.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735513143017472
+    m_Localized: '
+
+
+      Stone'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735514736852992
+    m_Localized: '
+
+
+      The Spirit that sent you here. He seems to have something
+      to say before you leave.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

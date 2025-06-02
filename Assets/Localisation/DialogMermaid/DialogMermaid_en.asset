@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DialogMermaid_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: fd1ebbcdf17af9345bec4dba67f49894, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 28070248448
+    m_Localized: Listen to my riddle."In the silence of the forest I fly through
+      the branches, In the night I light up the darkness with a light, What kind
+      of miracle am I?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30813323264
+    m_Localized: Right. The firefly is a symbol of hope and light in the dark. There
+      was a silver pass somewhere in the reeds. I think you'll need it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34386870272
+    m_Localized: "Wrong..Bird\u2026 She's free, but she doesn't always bring light."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38463733760
+    m_Localized: It's a firefly!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41131311104
+    m_Localized: It's a bird!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44478365696
+    m_Localized: Thank you very much!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48039329792
+    m_Localized: Ehh..
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

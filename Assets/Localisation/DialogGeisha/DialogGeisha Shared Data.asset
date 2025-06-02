@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: DialogGeisha Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: DialogGeisha
+  m_TableCollectionNameGuidString: c69294b6155602e4391cf8f74b164cf5
+  m_Entries:
+  - m_Id: 6536691712
+    m_Key: Geisha1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13750894592
+    m_Key: Geisha2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17622237184
+    m_Key: Geisha3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 199847968768
+    m_Key: AnsGeisha1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305733173248
+    m_Key: AnsGeisha2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 331863687168
+    m_Key: AnsGeisha3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 346380173312
+    m_Key: AnsGeisha4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5074979782656
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8462179073448214559
+  references:
+    version: 2
+    RefIds:
+    - rid: 8462179073448214559
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1746117799400

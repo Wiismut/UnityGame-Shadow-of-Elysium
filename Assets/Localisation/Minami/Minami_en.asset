@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Minami_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 0fe92bc1ed894994a8ef6655d0655951, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1207940546560
+    m_Localized: If you suddenly forget something, click on the button with the 'i'
+      icon at the top!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1106266423296
+    m_Localized: Oh!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1116718628864
+    m_Localized: Em...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1124381622272
+    m_Localized: Is this your first time here?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1132053004288
+    m_Localized: What?? Are you here by any chance?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140789739520
+    m_Localized: It's horrible....I used to be a human myself, and you wouldn't wish
+      anyone to enter the spirit world ahead of schedule..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147731312640
+    m_Localized: Don't you know what kind of world it is? I have to tell you
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153871773696
+    m_Localized: It's a world that's on the other side of yours
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159647330304
+    m_Localized: Elysium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166010089472
+    m_Localized: You need to get out of here! But.. since you're human, it won't
+      be that easy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1173031354368
+    m_Localized: The spirit world consists of three floors. To move from floor to
+      floor, you need to have three special passes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1185941422080
+    m_Localized: To exit this floor, you need bronze passes, you can collect them
+      in your bag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1191951859712
+    m_Localized: To check the contents of the bag, press B. See? It's simple!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1199954591744
+    m_Localized: To interact with the environment, use the E key. You've done this
+      before, haven't you?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1215649677312
+    m_Localized: It won't be easy to find the passes. They can be so hidden that
+      it will be difficult without a hint. You can talk to the spirits and they will
+      help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1224034091008
+    m_Localized: But! Be very careful. The patience of the spirits is not infinite,
+      and if they get angry, it will be very bad...Watch out for their patience
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1232842129408
+    m_Localized: If you don't know how to talk to someone, then get closer to them
+      and press the I key. Did it work? Here's a little recommendation from me
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1243038482432
+    m_Localized: But be very careful anyway
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1253494882304
+    m_Localized: And then you can return to your world
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1263926116352
+    m_Localized: Take care of yourself!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

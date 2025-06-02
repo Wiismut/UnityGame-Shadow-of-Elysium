@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: InventoryINFO Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: InventoryINFO
+  m_TableCollectionNameGuidString: 728d79802f0818841b90b7d5fdd7b13f
+  m_Entries:
+  - m_Id: 6440222720
+    m_Key: Add
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9728557056
+    m_Key: NotEnough
+    m_Metadata:
+      m_Items: []
+  - m_Id: 762312523776
+    m_Key: Lie
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8462179073448214590
+  references:
+    version: 2
+    RefIds:
+    - rid: 8462179073448214590
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1746124507456

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DialogSquid_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: dda035080a8094d4d8a41b864a14a07a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 517415501824
+    m_Localized: Human! Tangaroa greets you... Why have you come here? Will you bring
+      misfortune upon our island?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 520607367168
+    m_Localized: The ocean is alive, and it should not be underestimated. If you
+      don't want to fall prey to the waves, watch your step when you step into the
+      water.  Use the rafts to move around.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 608062799872
+    m_Localized: There's a treasure map on the wall over there. If you are wise,
+      it will lead you to what you are looking for.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611703455744
+    m_Localized: Ha! Pride will destroy you faster than predatory fish. Well, you'll
+      find out for yourself what it's like to be in the clutches of the abyss.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 615646101504
+    m_Localized: Although... If you can think at all, look at the wall. There's a
+      treasure map hanging there, but whether you can handle it is another matter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 835603791872
+    m_Localized: 'Seeking a way back
+
+      to my world'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 839143784448
+    m_Localized: You're not very brave.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 841920413696
+    m_Localized: Thank you!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 844147589120
+    m_Localized: /take a look at the map/
+    m_Metadata:
+      m_Items: []
+  - m_Id: 848782295040
+    m_Localized: /take a look at the map/
+    m_Metadata:
+      m_Items: []
+  - m_Id: 846483816448
+    m_Localized: Meh, I'll figure it out
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

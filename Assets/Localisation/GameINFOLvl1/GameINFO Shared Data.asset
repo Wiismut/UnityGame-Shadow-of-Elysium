@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GameINFO Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: GameINFO
+  m_TableCollectionNameGuidString: 96ba3caebe136a448978e7f133012fac
+  m_Entries:
+  - m_Id: 46877507584
+    m_Key: MinamiINFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85624487936
+    m_Key: KitsuneINFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149575041024
+    m_Key: TanukiINFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281523650560
+    m_Key: GeishaINFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 569412288512
+    m_Key: TenguINFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 601930727424
+    m_Key: DragonINFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695886562590720
+    m_Key: SirinINFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695927750656000
+    m_Key: DeerINFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695956968177664
+    m_Key: MermaidINFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695982792507392
+    m_Key: LeshiiINFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696014220427264
+    m_Key: CatINFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735509422669824
+    m_Key: Pele
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735511414964224
+    m_Key: Squid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735513143017472
+    m_Key: Stone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735514736852992
+    m_Key: Spirit
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8462179073448214569
+  references:
+    version: 2
+    RefIds:
+    - rid: 8462179073448214569
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1746121371401

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: INFOmenu_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 54e2e67a3f5f009458c5f1fb0c18c969, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11733434368
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16682713088
+    m_Localized: Main menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8432517120
+    m_Localized: "Movement - WASD/\u2190\u2191\u2193\u2192\nRunning - Shift\r\nOpen
+      Inventory - B\r\nInteraction - E\r\nInformation about the characters - I"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 736905870049280
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
